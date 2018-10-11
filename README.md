@@ -1,9 +1,9 @@
 # elk-example-spring-boot
 elk 
 Heroku 
-1-install Heroku https://devcenter.heroku.com/articles/getting-started-with-java#set-up
+##1-install Heroku https://devcenter.heroku.com/articles/getting-started-with-java#set-up
 
-2-Once installed, you can use the heroku command from your command shell.
+##2-Once installed, you can use the heroku command from your command shell.
 Log in using the email address and password you used when creating your Heroku account
 
 ```sh
@@ -14,7 +14,7 @@ $heroku login
 
 Authenticating is required to allow both the heroku and git commands to operate.
 
-3-Prepar the App to Deploy
+##3-Prepar the App to Deploy
 
 ```sh
 $cd My-App

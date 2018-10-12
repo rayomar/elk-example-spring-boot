@@ -59,9 +59,9 @@ $heroku logs --tail
 ```
 ## 4-connect your project to Github by clicking on Github in Deployment methode
 
+![alt logo](https://github.com/rayomar/elk-example-spring-boot/blob/develop/ConnectGith.png)
 
-
-
+for more information.visit the [docs](https://devcenter.heroku.com/articles/getting-started-with-java)
 
 
 
